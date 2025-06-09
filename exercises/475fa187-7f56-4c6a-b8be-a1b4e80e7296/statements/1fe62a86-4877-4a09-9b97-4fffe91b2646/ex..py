@@ -1,0 +1,1 @@
+Fill in the gaps to create a Python program that defines a variable and prints its value. Use the variable name 'greeting' and assign it the value 'Hello, World!'.
