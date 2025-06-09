@@ -1,0 +1,1 @@
+Fix the bug in the following code that is supposed to print numbers from 1 to 5. The current code does not produce the expected output.
